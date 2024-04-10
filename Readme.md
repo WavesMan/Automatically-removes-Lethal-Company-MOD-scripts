@@ -1,3 +1,7 @@
+### 
+
+##### [简体中文](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#zh_cn) | [繁體中文](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#zh_hk) | [English](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#en) | [En français](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#fr) | [русск](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#ru) | [Das ist Deutsch.](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#de) | [español](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#es) | [日本語](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#jp) |[العربية](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#ar)
+
 ### zh_cn
 
 请将这个bat脚本存放在Lethal Company的游戏根目录，随后双击运行它既可
@@ -42,5 +46,3 @@ La ruta de root del juego suele ser "`E: SteamLibrary\steamapps\common\Lethal Co
 
 يرجى وضع هذا البرنامج النصي BAT في فهرس لعبة Letal Company لتشغيله مرتين
 عادة ما يكون مسار الدليل الرئيسي في اللعبة هو"`E: SteamLibrary\steamapps\common\Lethal Company`"
-
-
