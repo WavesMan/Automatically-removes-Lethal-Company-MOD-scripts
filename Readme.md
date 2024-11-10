@@ -1,3 +1,6 @@
+# 警告！
+# 本项目与对应下载的整合包终止在《致命公司》v49版本
+# 本项目已废弃
 
 #### [简体中文](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#zh_cn) | [繁體中文](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#zh_hk) | [English](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#en) | [En français](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#fr) | [русск](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#ru) | [Das ist Deutsch.](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#de) | [español](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#es) | [日本語](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#jp) |[العربية](https://github.com/WavesMan/Automatically-removes-Lethal-Company-MOD-scripts?tab=readme-ov-file#ar)
 
